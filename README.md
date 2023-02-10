@@ -1,14 +1,19 @@
-# ddd-skeleton
-Domain-Driven Design skeleton with Symfony
-
-| Repository Branch | Symfony Version | PHP Version     |
-|-------------------|-----------------|-----------------|
-| [master][1]       | `5.1.x`         | `7.2` or higher |
+## Domain-Driven Design skeleton with Symfony
 
 
-Read [Domain-Driven Design Docs](https://en.wikipedia.org/wiki/Domain-driven_design)
+## Learn More  
+[Domain Driven Design In A Nutshell](https://github.com/habibun/php/tree/main/src/Concept/Ddd)
 
-[1]: https://github.com/habibun/ddd-skeleton/tree/master
+
+## Related
+- [Layered Architecture skeleton with Symfony](https://github.com/habibun/symfony-layered)  
+- [Hexagonal Architecture with PHP using Symfony](https://github.com/habibun/hexagonal-architecture)  
+
+
 
 ## License
 The code is licensed under the [MIT License](https://github.com/habibun/ddd-skeleton/blob/master/LICENSE)
+
+
+[//]: # (Links)
+[1]: https://github.com/habibun/symfony-ddd/tree/main
