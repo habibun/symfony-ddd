@@ -8,7 +8,7 @@
 ## Related
 - [Layered Architecture skeleton with Symfony](https://github.com/habibun/symfony-layered)  
 - [Hexagonal Architecture with PHP using Symfony](https://github.com/habibun/hexagonal-architecture)  
-
+- [Command and Query Responsibility Segregation With Symfony](https://github.com/habibun/symfony-cqrs)
 
 
 ## License
